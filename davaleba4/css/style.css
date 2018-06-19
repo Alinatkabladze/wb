@@ -1,0 +1,36 @@
+ul {
+	float:right;
+}
+
+.logo {
+	width:9%;
+	margin-top:1%;
+}
+.slide {
+margin-bottom:3%;
+}
+
+form {
+float:right;
+
+}
+.form-inline{
+	margin-top:1%;
+	margin-right:1%;
+}
+.justify-content-end{
+	top:0;
+}
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Roboto, sans-serif;
+}
+.container {
+	width: 1280px;
+	margin: 0 auto;
+}
+
